@@ -145,38 +145,10 @@ Iris-Flower-Classification/
 ├── images/
 │   ├── pairplot.png
 │   ├── heatmap.png
-│   └── confusion_matrix.png
+│  
 │
 ├── README.md
 └── requirements.txt
-```
-
----
-
-## 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Iris-Flower-Classification.git
-```
-
-Move into the project directory
-
-```bash
-cd Iris-Flower-Classification
-```
-
-Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Jupyter Notebook
-
-```bash
-jupyter notebook
 ```
 
 ---
